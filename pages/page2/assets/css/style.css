@@ -66,16 +66,16 @@ body {
         -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
         -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
         gap: 2rem;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         h1 {
-            font-size: 5rem;
+            font-size: 3rem;
             letter-spacing: 0.3rem;
             span {
                 color: rgb(43, 255, 255);
             }
         }
         .flavor {
-            font-size: 2rem;
+            font-size: 1.5rem;
             
         }
         .btn {
@@ -83,7 +83,7 @@ body {
             align-self: flex-end;
             color: white;
             border-radius: 50px;
-            padding: 1.5rem 3rem;
+            padding: 1rem 2rem;
             font-weight: bold;
             background-color: rgb(218, 36, 36);
         }
